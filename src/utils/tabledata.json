@@ -1,0 +1,246 @@
+[
+  {
+    "brand_name": "Wix",
+    "brand_logo": "https://cdn-icons-png.flaticon.com/512/5968/5968770.png",
+    "brand_chat": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac arcu diam. Nam auctor ultricies dui eu sollicitudin. Maecenas non pellentesque mi.",
+    "categories": [
+      {
+        "label": "automation",
+        "color": "purple"
+      }
+    ],
+    "members": [
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1580489944761-15a19d654956%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1599566150163-29194dcaad36%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3387%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535713875002-d1d0cf377fde%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1438761681033-6461ffad8d80%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF2YXRhcnxlbnwwfHwwfHx8MA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1472099645785-5658abf4ff4e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3540%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1544725176-7c40e5a71c5e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3534%26q%3D80&w=128&q=75"
+    ],
+    "tags": ["DigitalTransformation", "Digital"],
+    "time": "in 30 minutes"
+  },
+  {
+    "brand_name": "Shopify",
+    "brand_logo": "https://pbs.twimg.com/profile_images/1730319820238049280/FYF6hwoK_400x400.jpg",
+    "brand_chat": 0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac arcu diam. Nam auctor ultricies dui eu sollicitudin. Maecenas non pellentesque mi.",
+    "categories": [
+      {
+        "label": "Ecommerce",
+        "color": "pink"
+      },
+      {
+        "label": "B2B",
+        "color": "amber"
+      }
+    ],
+    "members": [
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1580489944761-15a19d654956%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1599566150163-29194dcaad36%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3387%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535713875002-d1d0cf377fde%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1438761681033-6461ffad8d80%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF2YXRhcnxlbnwwfHwwfHx8MA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1472099645785-5658abf4ff4e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3540%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1544725176-7c40e5a71c5e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3534%26q%3D80&w=128&q=75"
+    ],
+    "tags": ["DigitalTransformation", "Digital"],
+    "time": "in 30 minutes"
+  },
+  {
+    "brand_name": "MailChimp",
+    "brand_logo": "https://s3.amazonaws.com/www-inside-design/uploads/2018/10/mailchimp-sq.jpg",
+    "brand_chat": 0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac arcu diam. Nam auctor ultricies dui eu sollicitudin. Maecenas non pellentesque mi.",
+    "categories": [
+      {
+        "label": "SAAS",
+        "color": "green"
+      },
+      {
+        "label": "Mobile",
+        "color": "amber"
+      }
+    ],
+    "members": [
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1580489944761-15a19d654956%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1599566150163-29194dcaad36%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3387%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535713875002-d1d0cf377fde%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1438761681033-6461ffad8d80%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF2YXRhcnxlbnwwfHwwfHx8MA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1472099645785-5658abf4ff4e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3540%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1544725176-7c40e5a71c5e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3534%26q%3D80&w=128&q=75"
+    ],
+    "tags": ["DigitalTransformation", "Digital"],
+    "time": "in 30 minutes"
+  },
+  {
+    "brand_name": "PayPal",
+    "brand_logo": "data:image/png;base64,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",
+    "brand_chat": 7,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac arcu diam. Nam auctor ultricies dui eu sollicitudin. Maecenas non pellentesque mi.",
+    "categories": [
+      {
+        "label": "Marketplace",
+        "color": "green"
+      }
+    ],
+    "members": [
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1580489944761-15a19d654956%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1599566150163-29194dcaad36%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3387%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535713875002-d1d0cf377fde%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1438761681033-6461ffad8d80%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF2YXRhcnxlbnwwfHwwfHx8MA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1472099645785-5658abf4ff4e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3540%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1544725176-7c40e5a71c5e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3534%26q%3D80&w=128&q=75"
+    ],
+    "tags": ["DigitalTransformation", "Digital"],
+    "time": "in 30 minutes"
+  },
+  {
+    "brand_name": "Disney",
+    "brand_logo": "https://logonoid.com/images/disney-logo.png",
+    "brand_chat": 0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac arcu diam. Nam auctor ultricies dui eu sollicitudin. Maecenas non pellentesque mi.",
+    "categories": [
+      {
+        "label": "B2B",
+        "color": "amber"
+      },
+      {
+        "label": "B2C",
+        "color": "green"
+      }
+    ],
+    "members": [
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1580489944761-15a19d654956%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1599566150163-29194dcaad36%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3387%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535713875002-d1d0cf377fde%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1438761681033-6461ffad8d80%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF2YXRhcnxlbnwwfHwwfHx8MA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1472099645785-5658abf4ff4e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3540%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1544725176-7c40e5a71c5e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3534%26q%3D80&w=128&q=75"
+    ],
+    "tags": ["DigitalTransformation", "Digital"],
+    "time": "in 30 minutes"
+  },
+  {
+    "brand_name": "Intercom",
+    "brand_logo": "https://seeklogo.com/images/I/intercom-logo-B222146C9B-seeklogo.com.png",
+    "brand_chat": 9,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac arcu diam. Nam auctor ultricies dui eu sollicitudin. Maecenas non pellentesque mi.",
+    "categories": [
+      {
+        "label": "Technology",
+        "color": "blue"
+      },
+      {
+        "label": "SAAS",
+        "color": "green"
+      }
+    ],
+    "members": [
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1580489944761-15a19d654956%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1599566150163-29194dcaad36%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3387%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535713875002-d1d0cf377fde%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1438761681033-6461ffad8d80%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF2YXRhcnxlbnwwfHwwfHx8MA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1472099645785-5658abf4ff4e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3540%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1544725176-7c40e5a71c5e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3534%26q%3D80&w=128&q=75"
+    ],
+    "tags": ["DigitalTransformation", "Digital"],
+    "time": "in 30 minutes"
+  },
+  {
+    "brand_name": "Google",
+    "brand_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png",
+    "brand_chat": 5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac arcu diam. Nam auctor ultricies dui eu sollicitudin. Maecenas non pellentesque mi.",
+    "categories": [
+      {
+        "label": "Finance",
+        "color": "purple"
+      },
+      {
+        "label": "Automation",
+        "color": "orange"
+      }
+    ],
+    "members": [
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1580489944761-15a19d654956%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1599566150163-29194dcaad36%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3387%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535713875002-d1d0cf377fde%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1438761681033-6461ffad8d80%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF2YXRhcnxlbnwwfHwwfHx8MA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1472099645785-5658abf4ff4e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3540%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1544725176-7c40e5a71c5e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3534%26q%3D80&w=128&q=75"
+    ],
+    "tags": ["DigitalTransformation", "Digital"],
+    "time": "in 30 minutes"
+  },
+  {
+    "brand_name": "Evernote",
+    "brand_logo": "https://logos-world.net/wp-content/uploads/2021/03/Evernote-Logo.png",
+    "brand_chat": 0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac arcu diam. Nam auctor ultricies dui eu sollicitudin. Maecenas non pellentesque mi.",
+    "categories": [
+      {
+        "label": "transportation",
+        "color": "amber"
+      }
+    ],
+    "members": [
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1580489944761-15a19d654956%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1599566150163-29194dcaad36%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3387%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535713875002-d1d0cf377fde%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1438761681033-6461ffad8d80%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF2YXRhcnxlbnwwfHwwfHx8MA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1472099645785-5658abf4ff4e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3540%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1544725176-7c40e5a71c5e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3534%26q%3D80&w=128&q=75"
+    ],
+    "tags": ["DigitalTransformation", "Digital"],
+    "time": "in 30 minutes"
+  },
+  {
+    "brand_name": "Microsoft",
+    "brand_logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAhFBMVEXz8/PzUyWBvAYFpvD/ugjz9fb19Pbz+fr39fr69vPy9foAofD/tgDzRQB9ugAAo/Df6dCv0Xjz2dPzTBfzl4PznImz04CAx/H60oHS5vJ5xPH60Hn16dIAnvDz7u3z4t7n7dzzNADzkXurz3BwtQDzvrLM36zf6/Os2PL336z07d/7z3RN8WfWAAABg0lEQVR4nO3cyVLCYBCFURwCkXlygDBFUBTf//3cSGIVf5WrDi7O9wJdp3p/Wy1JkvSrLLzqVDu8FHAzjW57JrZ34+hSH5yWg9jK187PrXx/GMZ2GF9+MZsObmKbzSvhZHgb25CQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCwUWE5i21QC/fB86Xp/dLt/DG4t/MGbf7+FNxkl9jZzTrR1TvCeXjJIWFJkv7uIbzqVDe8LAE8Lp+D+zgTu5/FS2zFKUFcrEex9ZaV8Ksf3Sol7N3FNqqFRf8+NkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQsJmhetebOtr75dmi+iO1anTKrrNJbDRsvCuDJQk6Z/1DSzvYqEfRCNJAAAAAElFTkSuQmCC",
+    "brand_chat": 14,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac arcu diam. Nam auctor ultricies dui eu sollicitudin. Maecenas non pellentesque mi.",
+    "categories": [
+      {
+        "label": "Publishing",
+        "color": "pink"
+      },
+      {
+        "label": "B2C",
+        "color": "green"
+      }
+    ],
+    "members": [
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1580489944761-15a19d654956%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1599566150163-29194dcaad36%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3387%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535713875002-d1d0cf377fde%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1438761681033-6461ffad8d80%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF2YXRhcnxlbnwwfHwwfHx8MA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1472099645785-5658abf4ff4e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3540%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1544725176-7c40e5a71c5e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3534%26q%3D80&w=128&q=75"
+    ],
+    "tags": ["DigitalTransformation", "Digital"],
+    "time": "in 30 minutes"
+  },
+  {
+    "brand_name": "Invision",
+    "brand_logo": "https://cdn.worldvectorlogo.com/logos/invision.svg",
+    "brand_chat": 0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac arcu diam. Nam auctor ultricies dui eu sollicitudin. Maecenas non pellentesque mi.",
+    "categories": [
+      {
+        "label": "Web Services",
+        "color": "blue"
+      }
+    ],
+    "members": [
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1580489944761-15a19d654956%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1599566150163-29194dcaad36%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3387%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1535713875002-d1d0cf377fde%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1438761681033-6461ffad8d80%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF2YXRhcnxlbnwwfHwwfHx8MA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D800%26q%3D60&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1472099645785-5658abf4ff4e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3540%26q%3D80&w=128&q=75",
+      "https://ui.aceternity.com/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1544725176-7c40e5a71c5e%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D3534%26q%3D80&w=128&q=75"
+    ],
+    "tags": ["DigitalTransformation", "Digital"],
+    "time": "in 30 minutes"
+  }
+]

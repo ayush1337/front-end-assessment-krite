@@ -1,3 +1,30 @@
+@import url('non.geist');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #e5e7eb;
+  font-weight: 600;
+}
+th:first-child,
+tbody tr > *:first-child {
+  border-left: none;
+}
+
+th:last-child,
+tbody tr > *:last-child {
+  border-right: none;
+}

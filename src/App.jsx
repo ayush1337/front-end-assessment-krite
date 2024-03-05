@@ -1,15 +1,14 @@
-import { useState } from 'react';
-import reactLogo from './assets/react.svg';
-import viteLogo from '/vite.svg';
-import './App.css';
+import DataTable from './components/DataTable';
+import Navbar from './components/Navbar';
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
-    <>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
-    </>
+    <div className=" p-20  tracking-tight ">
+      <Navbar />
+      <div className="py-4 w-full h-full border rounded-md border-[#e5e7eb]">
+        <DataTable />
+      </div>
+    </div>
   );
 }
 
