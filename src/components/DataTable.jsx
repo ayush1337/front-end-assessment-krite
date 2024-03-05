@@ -6,7 +6,7 @@ export default function DataTable() {
       <div className="bg-white  flex flex-col gap-3 w-full">
         <div className="overflow-auto">
           <table className="w-full">
-            <thead className="opacity-55 text-normal text-left">
+            <thead className="text-normal text-left">
               <tr className="[&>*]:px-4 [&>*]:py-3 ">
                 <th>
                   <div className="flex items-center gap-2">
@@ -14,14 +14,29 @@ export default function DataTable() {
                       type="checkbox"
                       className="cursor-pointer accent-black w-4 h-4 opacity-30 checked:opacity-100"
                     />
-                    Brand
+                    <span className="opacity-55">Brand</span>
+
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      strokeWidth="1.5"
+                      stroke="currentColor"
+                      className="w-5 h-5 opacity-55 ml-auto"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M12 4.5v15m7.5-7.5h-15"
+                      />
+                    </svg>
                   </div>
                 </th>
-                <th>Description</th>
-                <th>Members</th>
-                <th>Categories</th>
-                <th>Tags</th>
-                <th>Next Meeting</th>
+                <th className="opacity-55">Description</th>
+                <th className="opacity-55">Members</th>
+                <th className="opacity-55">Categories</th>
+                <th className="opacity-55">Tags</th>
+                <th className="opacity-55">Next Meeting</th>
               </tr>
             </thead>
 
@@ -69,10 +84,26 @@ export default function DataTable() {
                         )}
                       </div>
                     </td>
-                    <td className="max-w-[50px] truncate">
+                    <td className="max-w-[200px] truncate">
                       {company.description}
                     </td>
-                    <td>{company.members.length}</td>
+                    <td className="relative">
+                      {company.members.map((member, idx) => {
+                        return (
+                          <div
+                            key={member}
+                            style={{ left: idx * 20 }}
+                            className={`absolute top-1/2  -translate-y-1/2 rounded-full w-8 h-8 border-2 border-white bg-black overflow-hidden`}
+                          >
+                            <img
+                              src={member}
+                              alt="member"
+                              className="w-full h-full object-cover"
+                            />
+                          </div>
+                        );
+                      })}
+                    </td>
                     <td>
                       <div className="flex gap-2 items-center">
                         {company.categories.map((category) => {
@@ -80,7 +111,7 @@ export default function DataTable() {
                           return (
                             <span
                               key={label}
-                              className={`${colorVariants[color]} border px-2 py-1 rounded capitalize`}
+                              className={`${colorVariants[color]} border px-2 py-1 rounded-lg capitalize`}
                             >
                               {label}
                             </span>
@@ -89,14 +120,62 @@ export default function DataTable() {
                       </div>
                     </td>
                     <td>
-                      {company.tags.map((tag) => {
-                        return <>{tag}</>;
-                      })}
+                      <div className="flex gap-2 overflow-hidden">
+                        {company.tags.map((tag) => {
+                          return (
+                            <div
+                              key={tag}
+                              className="bg-gray-100 border border-gray-400 text-gray-400 rounded-md px-2 py-1 cursor-pointer"
+                            >
+                              #{tag}
+                            </div>
+                          );
+                        })}
+                      </div>
                     </td>
-                    <td>{company.time}</td>
+                    <td>
+                      <div className="flex items-center justify-start ">
+                        <span className="bg-green-50 border border-green-600 text-green-600 rounded-md px-2 py-1">
+                          {company.time}
+                        </span>
+                      </div>
+                    </td>
                   </tr>
                 );
               })}
+              <tr className="text-end [&>*]:px-4 [&>*]:py-3 font-medium  text-sm">
+                <td>
+                  {tabledata.length}
+                  <span className="ml-2 opacity-55">count</span>
+                </td>
+                {Array(4)
+                  .fill(0)
+                  .map((_, idx) => {
+                    return (
+                      <td key={idx} className="opacity-55 cursor-pointer">
+                        <div className="flex items-center gap-2">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            fill="none"
+                            viewBox="0 0 24 24"
+                            strokeWidth="1.5"
+                            stroke="currentColor"
+                            className="w-5 h-5 opacity-55 ml-auto"
+                          >
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              d="M12 4.5v15m7.5-7.5h-15"
+                            />
+                          </svg>
+                          Add calculation
+                        </div>
+                      </td>
+                    );
+                  })}
+
+                <td className="opacity-55"></td>
+              </tr>
             </tbody>
           </table>
         </div>
