@@ -10,6 +10,7 @@ import {
   XCircleIcon,
 } from '@heroicons/react/24/outline';
 import { useState } from 'react';
+import SubMenu from './SubMenu';
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -58,7 +59,7 @@ export default function Navbar() {
           </button>
         )}
 
-        <div className="flex gap-12">
+        <div className="flex gap-12 w-full">
           <button className="flex gap-2 items-center">
             <div className="w-10">
               <img
@@ -72,7 +73,7 @@ export default function Navbar() {
               <span className="font-bold">InnovateHub</span>
             </div>
           </button>
-          <button className="rounded-full overflow-hidden w-8 h-8">
+          <button className="rounded-full overflow-hidden w-8 h-8 ml-auto">
             <img
               src="https://img.freepik.com/free-photo/handsome-woman-s-portrait-isolated-pink-studio-background-neon-light-monochrome-beautiful-female-model-concept-human-emotions-facial-expression-sales-ad-fashion-beauty_155003-34463.jpg"
               className="w-full object-cover h-full object-top"
@@ -103,6 +104,8 @@ export default function Navbar() {
           <span className="uppercase font-semibold">Folders</span>
           <PlusIcon className="w-5 h-5 text-black ml-auto" />
         </button>
+
+        <SubMenu />
 
         <button className="mt-auto text-sm border-[#e5e7eb] w-full flex items-center gap-1 hover:bg-gray-100 transition-all p-2 rounded-md">
           <ArrowUpRightIcon className="w-5 h-5 text-black" />

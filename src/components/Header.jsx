@@ -1,10 +1,20 @@
+import { useContext, useEffect, useState } from 'react';
 import {
   ChatBubbleLeftRightIcon,
   Cog8ToothIcon,
   MagnifyingGlassIcon,
 } from '@heroicons/react/24/outline';
 import DropDown from './Dropdown';
+import { SearchContext } from '@/utils/Context';
+
 export default function Header() {
+  const [searchQuery, setSearchQuery] = useState('');
+  const [_, setContext] = useContext(SearchContext);
+
+  useEffect(() => {
+    setContext(() => searchQuery);
+  }, [searchQuery]);
+
   return (
     <header className="px-4 py-3 flex gap-6 flex-col items-start sm:flex-row">
       <h1 className="font-bold text-lg">Products</h1>
@@ -14,6 +24,9 @@ export default function Header() {
           type="text"
           placeholder="Search for..."
           className="focus:outline-none placeholder:text-sm w-full"
+          onChange={(e) => {
+            setSearchQuery(() => e.target.value);
+          }}
         />
       </button>
       <DropDown

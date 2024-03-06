@@ -29,7 +29,7 @@ const items = [
         rel="noopener noreferrer"
         href="https://www.luohanacademy.com"
       >
-        just random stuff
+        Skilled in React.js Next.js Tailwind CSS
       </a>
     ),
     disabled: true,
