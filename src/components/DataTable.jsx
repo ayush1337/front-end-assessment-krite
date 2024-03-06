@@ -1,4 +1,8 @@
-import { ChatBubbleLeftRightIcon, PlusIcon } from '@heroicons/react/24/outline';
+import {
+  ArrowUpRightIcon,
+  ChatBubbleLeftRightIcon,
+  PlusIcon,
+} from '@heroicons/react/24/outline';
 import tabledata from '../utils/tabledata.json';
 import colorVariants from '../utils/colorVariants';
 import { useEffect, useRef, useState, useContext } from 'react';
@@ -232,6 +236,25 @@ export default function DataTable() {
             {checkCount}
           </span>
           <span className="font-semibold">selected</span>
+        </div>
+        <div className="self-center  rounded-lg overflow-hidden flex gap-4  items-center">
+          <a
+            href="https://drive.google.com/file/d/1TsyHRLPl7TvTEl8sbJYZFU26WYLMlxgr/view"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center underline opacity-65 hover:opacity-100 transition-all gap-1"
+          >
+            <span className="text-sm font-bold ">• by Ayush Kumar</span>
+            <ArrowUpRightIcon className="w-4 h-4 text-black" />
+          </a>
+          <a
+            href="mailto:ayushsingh.8d@gmail.com"
+            className="flex items-center underline opacity-65 hover:opacity-100 transition-all gap-1"
+          >
+            <span className="text-sm font-bold ">
+              • ayushsingh.8d@gmail.com
+            </span>
+          </a>
         </div>
       </div>
     </>

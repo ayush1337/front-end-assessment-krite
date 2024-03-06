@@ -25,7 +25,7 @@ export default function Header() {
           placeholder="Search for..."
           className="focus:outline-none placeholder:text-sm w-full"
           onChange={(e) => {
-            setSearchQuery(() => e.target.value);
+            setSearchQuery(() => e.target.value.toLowerCase());
           }}
         />
       </button>
