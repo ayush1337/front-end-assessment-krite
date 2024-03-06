@@ -1,28 +1,32 @@
 import {
-  QueueListIcon,
   ChevronDownIcon,
   ArrowsUpDownIcon,
   AdjustmentsHorizontalIcon,
   PlusCircleIcon,
   FolderArrowDownIcon,
+  CubeTransparentIcon,
 } from '@heroicons/react/24/outline';
+import DropDown from './Dropdown';
 
 export default function Filter() {
   return (
-    <div className="px-4 py-3 border-t border-t-[#e5e7eb] flex gap-6">
-      <button className="flex text-sm items-center gap-2 cursor-pointer shadow-sm p-2 rounded border border-[#e5e7eb] hover:bg-gray-100 transition-all ">
-        <QueueListIcon className="h-5 w-5 text-black" />
-        <span>All brands</span>
-        <ChevronDownIcon className="h-3 w-3 text-black" />
-      </button>
-      <button className="flex text-sm items-center gap-2 cursor-pointer shadow-sm p-2 rounded border border-[#e5e7eb] hover:bg-gray-100 transition-all ">
-        <span>Desk</span>
-        <ChevronDownIcon className="h-3 w-3 text-black" />
-      </button>
-      <button className="flex text-sm items-center gap-2 cursor-pointer shadow-sm p-2 rounded border border-[#e5e7eb] hover:bg-gray-100 transition-all ">
-        <span>Tags</span>
-        <ChevronDownIcon className="h-3 w-3 text-black" />
-      </button>
+    <div className="px-4 py-3 border-t border-t-[#e5e7eb] flex gap-6 flex-col lg:flex-row">
+      <DropDown
+        iconleft={<CubeTransparentIcon className="h-5 w-5 text-black" />}
+        label="All brands"
+        iconright={<ChevronDownIcon className="h-3 w-3 text-black ml-auto" />}
+        clickable={true}
+      />
+      <DropDown
+        label="Desk"
+        iconright={<ChevronDownIcon className="h-3 w-3 text-black ml-auto" />}
+        clickable={true}
+      />
+      <DropDown
+        label="Tags"
+        iconright={<ChevronDownIcon className="h-3 w-3 text-black ml-auto" />}
+      />
+
       <button
         disabled={true}
         className="opacity-55 flex text-sm items-center gap-2 cursor-not-allowed shadow-sm p-2 rounded border border-[#e5e7eb]"
@@ -37,14 +41,17 @@ export default function Filter() {
         <AdjustmentsHorizontalIcon className="h-3 w-3 text-black" />
         <span>Filter</span>
       </button>
-      <button className=" ml-auto flex text-sm items-center gap-2 cursor-pointer shadow-sm p-2 rounded border border-[#e5e7eb] hover:bg-gray-100 transition-all ">
-        <PlusCircleIcon className="h-5 w-5 text-black" />
-        <span>Meetings</span>
-      </button>
-      <button className="flex text-sm items-center gap-2 cursor-pointer shadow-sm p-2 rounded border border-[#e5e7eb] hover:bg-gray-100 transition-all ">
-        <FolderArrowDownIcon className="h-5 w-5 text-black" />
-        <span>Import/Export</span>
-      </button>
+      <span className="ml-auto"></span>
+      <DropDown
+        iconleft={<PlusCircleIcon className="h-5 w-5 text-black" />}
+        label="Meetings"
+        clickable={true}
+      />
+      <DropDown
+        iconleft={<FolderArrowDownIcon className="h-5 w-5 text-black" />}
+        label="Import/Export"
+        clickable={true}
+      />
     </div>
   );
 }

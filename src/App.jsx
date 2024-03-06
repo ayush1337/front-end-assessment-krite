@@ -5,14 +5,16 @@ import Navbar from './components/Navbar';
 
 function App() {
   return (
-    <div className=" lg:p-20 p-4 tracking-tight ">
-      <Navbar />
-      <div className="py-4 w-full h-full min-h-screen border rounded-md border-[#e5e7eb]">
-        <Header />
-        <Filter />
-        <DataTable />
-      </div>
-    </div>
+    <>
+      <main className="p-4 tracking-tight flex gap-4 mx-auto h-full w-full flex-col xl:flex-row relative overflow-x-hidden">
+        <Navbar />
+        <section className=" w-full h-full min-h-screen border rounded-xl border-[#e5e7eb]">
+          <Header />
+          <Filter />
+          <DataTable />
+        </section>
+      </main>
+    </>
   );
 }
 
